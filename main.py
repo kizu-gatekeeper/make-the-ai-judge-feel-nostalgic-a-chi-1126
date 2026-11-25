@@ -7,7 +7,7 @@ $MAKEFUN_OUTPUT_DIR/entry.txt (default /output).
 import os
 from pathlib import Path
 
-LINE = "Grandma's kitchen radio crackled through Sunday morning, rice steaming on the stove, while we kids raced bottle caps across the cool tiles waiting for her ginger tea to cool."
+LINE = "Grandma's kitchen radio crackled through Sunday morning, rice steaming on the stove, while we kids raced bottle caps across the cool tiles waiting for her ginger tea to cool and the afternoon rain to decide about the laundry."
 MAX_CHARS = 280
 
 
